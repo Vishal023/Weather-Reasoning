@@ -1,0 +1,70 @@
+.button{
+    background-color:#4CAF50;
+    border: none;
+    color: white;
+    padding: 66px 33px;
+    text-align: right;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 32px;
+    transition: all 0.5s;
+
+
+}
+.btt{
+    background-color: red;
+    padding: 8px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: Tahoma;
+}
+.bt{
+    background-color: green;
+    padding: 8px 25px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: Tahoma;
+
+}
+.but{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.but :hover{
+    background-color: red;
+}
+.button span {
+    cursor:pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button span::after{
+    content: '\00bb';
+    position: relative;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+.button:hover{
+    background-color: #008CBA;
+}
+.button:hover span{
+    padding-right: 25px;
+}
+.button:hover span:after{
+    opacity: 1;
+    right: 0;
+}

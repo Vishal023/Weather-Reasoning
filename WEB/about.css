@@ -1,0 +1,32 @@
+.img{
+    width: 500px;
+    height: 350px;
+    top: 90px;
+    right: 0;
+    position: absolute;
+    margin-top: 0px;
+    border-radius: 20px;
+}
+.img1{
+    width: 500px;
+    height: 350px;
+    left: 0;
+    top: 500px;
+    position: absolute;
+    border-radius: 20px;
+}
+.d{
+    text-align: center;
+    position: relative;
+}
+#h2{
+    margin-top: 250px;
+}
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    color: red;
+}
+h2{
+    color: darkorange;
+}
