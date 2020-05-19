@@ -25,4 +25,5 @@ Weather Reasoning requires
         Dowload the GUI folder and execute the code inside WeatherReasoning.ipynb
 ## NOTE
     Note: The images,database and dataset file should be in the same directory as the WeatherReasoning.ipynb
-    [11809777_K18KR](https://github.com/Vishal023/Weather-Reasoning/tree/master/11809777_K18KR) this folder was used for Class Project Purpose.
+## JUNK
+[11809777_K18KR](https://github.com/Vishal023/Weather-Reasoning/tree/master/11809777_K18KR) this folder was used for Class Project Purpose.
