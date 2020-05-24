@@ -5,6 +5,9 @@ An artificial intelligence weather reasoning project which tells you the weather
 
 ![Home Page](https://drive.google.com/uc?id=1bbDqaUw-_JwjlrXt751pjmyj3vKs2s6t)
 
+![Forecast Day Page](https://drive.google.com/uc?id=1ylRGkTNzQ9FezKE2hrgZqfBioLL_fQ9K)
+
+![Forecast Night Page](https://drive.google.com/uc?id=1knjzmWn9Euu24mZX9rpVbVHPtOUVDOoI)
 
 ## Technology Used
 This reasoning system uses:
