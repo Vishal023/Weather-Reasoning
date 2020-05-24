@@ -3,7 +3,7 @@
 An artificial intelligence weather reasoning project which tells you the weather forecast of the next day. It also had auto day and night mode.
 
 
-![Home Page](https://drive.google.com/open?id=1bbDqaUw-_JwjlrXt751pjmyj3vKs2s6t)
+![Home Page](https://drive.google.com/uc?id=1bbDqaUw-_JwjlrXt751pjmyj3vKs2s6t)
 
 
 ## Technology Used
