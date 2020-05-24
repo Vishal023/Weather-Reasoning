@@ -6,7 +6,7 @@ An artificial intelligence weather reasoning project which tells you the weather
 ![Home Page](https://drive.google.com/uc?id=1bbDqaUw-_JwjlrXt751pjmyj3vKs2s6t)
 
 
-## Technology Used
+## TECHNOLOGY USED
 This reasoning system uses:
 
 * [Python](https://www.python.org/)
@@ -16,7 +16,12 @@ This reasoning system uses:
     * [TKINTER] GUI
     * [SQLITE] v3
 
-## Installation
+## WORKING
+
+WATCH THIS VIDEO TO VIEW THE WORKING OF THIS GUI APP
+[VIDEO](https://drive.google.com/open?id=1ExX7HGeQVpdYtISiS8hr09AIQ7QxWZam)
+
+## INSTALLATION
 
 Weather Reasoning requires
 [Python](https://www.python.org/) v3+ to run.
