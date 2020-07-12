@@ -1,3 +1,5 @@
+# Make sure your fork/star this repo before cloning to your local system
+
 # Weather Reasoning System
 
 An artificial intelligence weather reasoning project which tells you the weather forecast of the next day. It also had auto day and night mode.
